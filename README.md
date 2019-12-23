@@ -1,2 +1,5 @@
 # Discrete-Optimization
-Something about homework
+
+Something about homework.
+
+Discrete Optimization on Coursera!
